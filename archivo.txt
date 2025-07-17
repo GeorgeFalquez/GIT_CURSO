@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola desde main
+=======
+Hola desde feature
+>>>>>>> main3
